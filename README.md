@@ -101,11 +101,6 @@ saved as a .jmx files in the test/ folder, and can be run with Jmeter.
 
 We use [SemVer](http://semver.org/) for versioning.
 
-## Authors
-* Team Leader and Manager - [Arsalan Asad](https://github.com/QA-ArsalanAsad)
-* Back-end Developer and Non-functional tester - [Vaughan-Williams, Peter](https://github.com/petervw-qa)
-* Test Lead - [Mezals, Raimonds](https://github.com/RaimondsMezalsQA)
-* Front-end Lead - [Henry Oliver-Edwards](https://github.com/QAHenryOliverEdwards) 
 
 ### Training Team
 
@@ -120,7 +115,10 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ### Development Team
 
-- Team names and roles here, e.g. **Scrum Master**
+* Team Leader and Manager - [Arsalan Asad](https://github.com/QA-ArsalanAsad)
+* Back-end Developer and Non-functional tester - [Vaughan-Williams, Peter](https://github.com/petervw-qa)
+* Test Lead - [Mezals, Raimonds](https://github.com/RaimondsMezalsQA)
+* Front-end Lead - [Henry Oliver-Edwards](https://github.com/QAHenryOliverEdwards) 
 
 ## Acknowledgements
 
